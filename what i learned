@@ -1,0 +1,21 @@
+### Lessons Learned from Intro to Pojo
+
+The "Intro to Pojo" repository serves as an insightful introduction to the power of Git and GitHub, highlighting the significance of these tools in the software development ecosystem. Here are the key lessons I learned:
+
+#### GitHub
+I gained a deeper understanding of GitHub, recognizing it as the UI version of Git, which simplifies interaction with repositories.
+
+#### Forking a Repo
+Forking a repository, typically done when contributing to another person's project, creates a new version of the repository on your GitHub profile.
+
+#### Cloning a Repo
+Cloning a repository creates a local version on your machine, allowing you to make changes independently.
+
+#### Creating a Branch
+Creating a branch lets you make changes in isolation from the main codebase, preventing interference with the stable codebase.
+
+#### Commit and Push
+Making a commit records changes to the repository in the staging area, usually with an `-m` flag to add a custom commit message. Pushing then uploads the repository branch and its commits to the remote repository on GitHub.
+
+#### Pull Request (PR)
+A pull request (PR) is a request to merge changes from a branch (in a fork) to the original repository's branch.
